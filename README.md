@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashinika Bandara</h1>
-<h3 align="center">A passionate learner</h3>
+<!-- <h3 align="center">A passionate learner</h3> -->
 
 - 🔭 I’m currently studying **BSc. in Computer Science**
 - 🌱 I’m currently learning Cyber Security & Forensics
